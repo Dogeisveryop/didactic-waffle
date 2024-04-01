@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+}
+
+.thissielon {
+    font-family: Pacifico;
+    width: 20%;
+    font-size: 25px;
+    border: 1px solid rgb(249, 249, 249);
+    box-shadow: 20px 20px 20px white;
+    border-radius: 30px;
+}
+
+canvas{
+    margin-top: 190px;
+    border-radius: 25px;
+    border: 1px solid white;
+    box-shadow: 10px 10px 10px white;
+}
